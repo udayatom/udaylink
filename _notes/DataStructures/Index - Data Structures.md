@@ -15,12 +15,12 @@ Source: AllFreeSewing
 Imagine having sequins of different colours mixed after a long sewing session. You need to organize them based on colours so that you don’t face any difficulty in your next sewing session. These containers can be thought of as data structures where different kinds of sequins (data) are stored based on predefined criteria to ease solving problems.
 
 A data structure is a named location where data and information are stored and organized based on the associated operations in order to increase the efficiency of programming. Algorithms consist of ordered steps to solve a particular problem or achieve a goal. Learning data structures and their algorithms is essential to create clean and optimized code.
- 
+
 # GETTING STARTED WITH THE BASICS
 
 Whichever language that you select, you need to be thorough with the syntax and know the data structures that the language provides. There are several primitive and non-primitive data structures that you should be aware of and learn how to code them.
 
-![[Screenshot 2022-08-17 at 5.13.51 PM.png]] 
+![[Screenshot 2022-08-17 at 5.13.51 PM.png)
 
 Source: TutorialLink
 
@@ -42,7 +42,7 @@ One of the most common applications of data structures is Search and Sort algori
 6.  Merge Sort
 7.  Heap Sort (Binary Heap)
 8.  Quick Sort
-9.  Topological Sort 
+9.  Topological Sort
 
 # MAKING CODE EFFICIENT
 
@@ -72,4 +72,3 @@ The precedence of time complexity is as follows:
 ![](https://miro.medium.com/max/1050/1*cj1VWiv7mdIZqItIV5C9Cg.png)
 
 Source: CSharpCorner
- 
