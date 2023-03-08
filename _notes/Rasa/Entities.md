@@ -6,7 +6,9 @@ An entity can be any important detail that your assistant could use later in a c
 * Country names
 * Product names
 
-  ![[Pasted image 20230109074904.png]]
+ 
+![image](/assets/Pasted%20image%2020230109074904.png)
+   
 
 Training data for entity extraction should be included in your nlu.xml file.
 ![[Pasted image 20230109075052.png]]
@@ -15,7 +17,7 @@ Training data for entity extraction should be included in your nlu.xml file.
 1) Using pre-build models:
 	- Duckling for extracting numbers, dates, url, email addresses
 	- SpaCy - for extracting names, product names, locations etc
-	 ![[Pasted image 20230109075342.png]]
+	 ![image](/assets/Pasted%20image%2020230109075342.png)
 
   2) Using Regex:
 	  - For entities that match a specific pattern(Eg: phone number, post codes)
