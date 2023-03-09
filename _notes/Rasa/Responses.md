@@ -5,6 +5,7 @@ Response templates are defined in the domain.yml file.
 ![image](/assets/Pasted%20image%2020230123081533.png)
 
 Creating multiple responses
+
 Your can include more than one possible response for a specific template. Rasa will the randomly select which response to pick.
 ![image](/assets/Pasted%20image%2020230123081740.png)
 

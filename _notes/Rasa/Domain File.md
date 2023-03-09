@@ -1,10 +1,10 @@
-Responses - These are the things the assistant can say to users
+[[Responses]] - These are the things the assistant can say to users
 
 Intents - There are categories of things user say
 
-Slots - These are variables remembered over the course of a conversation.
+[[Slots]] - These are variables remembered over the course of a conversation.
 
-Entities - There are pieces of information extracted from incoming text
+[[Entities]] - There are pieces of information extracted from incoming text
 
 Forms and Actions: These add application logic and extend what your assistant can do.
 
@@ -191,7 +191,7 @@ nlu:
 
   - Paring down intents
 
-    - Don't use intents as a way to store infromation - Storing information = slots
+    - Don't use intents as a way to store infromation - Storing information = [[slots]]
     - Do a lot of same tokens show up in training data for two intents?
       - Consider if they can be combined
       - ![image](/assets/Pasted%20image%2020230108213402.png)
@@ -202,3 +202,11 @@ nlu:
   * Each utterance should unambiguosly match to a single intent - You can verify this using human sorting & inter-rather reliability
 
   - Is an utterance ambiguous? - Use end to end instead(the raw text as training data w/out classifying it) - ![image](/assets/Pasted%20image%2020230108214025.png) - ![image](/assets/Pasted%20image%2020230108214133.png)
+
+  <audio controls>
+
+<source src="/assets/jazzyfrenchy.mp3" type="audio/mpeg">
+
+Your browser does not support the audio element.
+
+</audio>

@@ -8,9 +8,9 @@ An entity can be any important detail that your assistant could use later in a c
 - Product names
 
 ![image](/assets/Pasted%20image%2020230109074904.png)
+![[Pasted image 20230109074904.png)
 
 Training data for entity extraction should be included in your nlu.xml file.
-![image](/assets/Pasted%20image%2020230109075052.png)
 
 **There are 3 ways entities can be extracted in Rasa:**
 
