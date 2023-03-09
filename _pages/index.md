@@ -16,6 +16,7 @@ permalink: /
   Which section need to navigate <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
  
+ This digital garden template is free, open-source, and [Rasa](https://udayalink.netlify.app/index).
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 

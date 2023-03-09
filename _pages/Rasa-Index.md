@@ -6,4 +6,3 @@
 [[Responses]]
 [[Custom Actions]]
 [[Rasa/Setup]] 
-
