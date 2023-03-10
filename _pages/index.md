@@ -17,7 +17,7 @@ permalink: /
 </p> 
 
  
- [Rasa](https://udayalink.netlify.app/index-Rasa).
+ [Rasa](https://udaylink.netlify.app/index-Rasa).
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
