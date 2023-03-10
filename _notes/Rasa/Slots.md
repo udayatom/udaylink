@@ -9,7 +9,7 @@ Slots are defined inside of your domain.yml file.
 
 1. Using NLU
    ![image](/assets/Pasted%20image%2020230120075856.png)
-2. Using Custom actions
+2. Using [[Custom actions]]
 
 **Influencing the conversation**
 
