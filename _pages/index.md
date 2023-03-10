@@ -15,8 +15,8 @@ permalink: /
   Which section need to navigate <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-<a class="internal-link" href="/oldrasa">Rasa</a>
-<a class="internal-link" href="/entities">About</a>
+<a class="internal-link" href="/lotion">Rasa</a>
+<a class="internal-link" href="/oldrasaes">About</a>
 
 [Rasa](https://udaylink.netlify.app/rasa).
 
