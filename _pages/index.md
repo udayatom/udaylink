@@ -16,7 +16,7 @@ permalink: /
 </p>
 
 [Rasa](https://udaylink.netlify.app/about).
-[Rasa](https://udaylink.netlify.app/random).
+[Rasa](https://udaylink.netlify.app/Random).
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
